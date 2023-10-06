@@ -1,0 +1,2 @@
+models/random_forest/random_forest.joblib
+models/random_forest/rf_pipeline.joblib
