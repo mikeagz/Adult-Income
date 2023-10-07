@@ -18,8 +18,11 @@ A partir del conjunto de datos anterior se realizaron las actividades:
 4. Preprocesamiento de los datos
 5. Modelado
 
-Los modelos utilizados en este trabajo corresponden a:
-* Random Forest
-* Neural Network
-* XGBoost
+En este trabajo se usó un modelo Random Forest.
 ## Resultados
+![](reports\cr_test.png)
+
+## Despligue
+Bajo el framework Streamlit
+
+![](reports\app_view.png)

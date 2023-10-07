@@ -186,7 +186,7 @@ with tab4:
     st.markdown("In this section we can test the models!")
     def pass_cols(x):
         return x
-    Pipeline=joblib.load(r'C:\Users\migue\Desktop\Portfolio\Clasificación de ingresos anuales\models\random_forest\rf_pipeline.joblib')
+    Pipeline=joblib.load(r'C:\Users\migue\Desktop\Projects\Clasificación de ingresos anuales\models\random_forest\rf_pipeline.joblib')
     with st.form("my_form"):
         header = st.columns([1,1,1])
         # header[0].subheader('Color')
