@@ -20,9 +20,9 @@ A partir del conjunto de datos anterior se realizaron las actividades:
 
 En este trabajo se usó un modelo Random Forest.
 ## Resultados
-![](reports\cr_test.png)
+![](reports/cr_test.png)
 
 ## Despligue
 Bajo el framework Streamlit
 
-![](reports\app_view.png)
+![](reports/app_view.png)
